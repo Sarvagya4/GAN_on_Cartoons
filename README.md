@@ -120,12 +120,3 @@ If you'd like to enhance this project:
 - Datasets sourced from **Kaggle** and **Cartoon Faces Dataset**.  
 - Thanks to the **TensorFlow** and **Keras** communities for their amazing tools.
 
----
-
-> _“The best way to predict the future is to create it.”_ – Peter Drucker
-
----
-
----
-
-Would you like me to tailor it further — for example, emphasize **DCGAN architecture**, **cartoon face generation**, or include a **Google Colab notebook badge** for easy launching?
